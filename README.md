@@ -161,4 +161,7 @@ Built with SwiftUI for macOS Tahoe 26.0+
 Optimized for web designers and developers who need fast, reliable image compression and conversion.
 
 ## Author
-- [Eric Caldwell](https://www.web-jive.com)
+
+**Eric Caldwell - WebJIVE**
+- Website: [https://www.web-jive.com](https://www.web-jive.com)
+- 19+ years of digital marketing experience serving Arkansas businesses
